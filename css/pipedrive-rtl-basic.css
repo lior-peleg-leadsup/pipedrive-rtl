@@ -1,0 +1,26 @@
+body{ direction:rtl} 
+@media (max-width:1440px){.detailViewWrapper .mainBlock>.content{right:390px !important; left:0 !important}} 
+.flowWrapper .flowContainer .flowItem { text-align: right !important; margin-left:0 !important; margin-right:54px !important;} 
+.iam___GSPanel___1VdeC1Vd{left:24px !important; right:auto !important} 
+.flowItemContent:before{right:0 !important} 
+.flowWrapper .flowContainer .flowItem.change .flowItemContent:before,.flowWrapper .flowContainer .flowItem.dealChange .flowItemContent:before,.flowWrapper .flowContainer .flowItem.follower .flowItemContent:before,.flowWrapper .flowContainer .flowItem.participant .flowItemContent:before {right:9px !important; left:0 !important} 
+.flowComponent .flowItemDetails { margin-left: 10px !important; margin-right:0 !important} 
+.detailViewWrapper .sidebar .widget .columnTitle .columnActions { left: 0 !important; right: unset!important} 
+.detailViewWrapper .sidebar .widget .columnTitle .columnItem {direction:ltr !important;} 
+.detailViewWrapper .infoBlock .content .owner .info { margin-left:0 !important; margin-right: 8px !important; }
+.detailViewWrapper .dealDetails .infoBlock .content .actions { float: left !important; direction: ltr !important;} 
+.forwarderAddresses .title .questionTooltip {right: unset !important; left:0 !important;} 
+.gridRow__cell .item { text-align: right !important;}
+.gridHeader--fixed { float: right !important; } 
+.gridCell__editIcon { left: 4px !important; right: auto !important;} 
+.gridCell__popoverContainer { right: unset !important; left: 16px !important; }
+.gridRow__cell.gridRow__cell--double .gridCell__editIcon, .gridRow__cell.gridRow__cell--int .gridCell__editIcon, .gridRow__cell.gridRow__cell--monetary .gridCell__editIcon { left: 3px !important; right: auto !important; } 
+.gridContent .gridContent--scrollable .gridContent--react .gridContent--contentArea { right: 32px !important; left: 0 !important;}
+.gridHeader__table--scrollable { margin-left: 32px !important; margin-right: 0 !important;} 
+.gridHeader__columnPicker { float: left !important; border-left: 0 !important; border-right: 1px solid #b9babb !important;}
+.gridContent--fixed { float: right !important; right: -32px !important;} 
+.grid__content-wrapper { right: 32px !important;} 
+[scope='settings-page']{ direction: ltr} 
+.gridHeader__item { text-align: right !important; float: right !important} 
+
+

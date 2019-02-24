@@ -1,0 +1,10 @@
+.pipelineSummary .pipelineStages ul li .stageContent .stageArrow:after { border-left: 3px solid #fff !important; border-right: 0 !important; left: -7px !important; right: unset !important;  transform: scaleX(0.3) rotate(310deg) !important; }
+.pipelineSummary .pipelineStages.open ul li.active+li .stageContent .stageArrow:after, .pipelineSummary .pipelineStages.won ul li.active+li .stageContent .stageArrow:after {border-left: 3px solid #fff !important; border-right: 0 !important; } 
+.pipelineSummary .pipelineStages ul li .stageContent .stageArrow { right: 0 !important;  left: unset !important; }
+.pipelineSummary .pipelineStages ul li .stageContent .stagename { right: 4px !important;  left: unset !important;  }
+.pipelineSummary { direction: rtl !important }
+
+#pipelineCanvas #pipelineContainer .pipeline .stages ul li { text-align: right !important; } 
+#pipelineCanvas #pipelineContainer .pipeline .stages ul li .goalsWrapper .goals { right : unset !important; left: 0 !important; }
+
+#pipelineStages {  direction: rtl !important; }
